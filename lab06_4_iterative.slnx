@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../lab06_4_iterative_tests/lab06_4_iterative_tests.vcxproj" />
+  <Project Path="lab06_4_iterative.vcxproj" />
+</Solution>
